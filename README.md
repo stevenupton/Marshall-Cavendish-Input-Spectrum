@@ -1,4 +1,4 @@
-# marshallcavendishinputspectrum
+# Marshall-Cavendish-Input-Spectrum
 Project based on Marshall Cavendish Input magazine implementations using Fuse Emulator
 
 Each folder contains a list of Spectrum .tap files inspired by the exercise in the Input magazine.
