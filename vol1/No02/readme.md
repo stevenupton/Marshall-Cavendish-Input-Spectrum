@@ -4,6 +4,32 @@
 
 ![Input Vol 1 No 2](input_vol1_no2.jpg)
 
+#### Contents
+
++ Basic Programming 3
+  + The computer as a decision maker</br>
+    How IF . . . THEN is used. Three-way and multiple choices
+
++ Machine Code 2
+  + 10 minute games graphics</br>
+  Binary/decimal and binary /hex conversions. Planning graphics
+
++ Applications
+  + Streamline your hobbies</br>
+  A datafile program lo index — or crossindex — your hobbies
+
++ Games Programming 2
+  + Right, left, up, down and fire!</br>
+  Using GETS and INKEY$ to get your games programs moving
+
++ Basic Programming 4
+  + The programmer's guide to road signs</br>
+  How to jump lines using GOTO, ON. . .GOTO and GOSU
+  
+
+
+#### Program File Summary
+
 1. Average Marks - Adds together inputted numbers and divide by the number of entries.
 
 2. Think of a number - enter a number and tells you whether the guess is too low or too high. If correct asks you for another go. 

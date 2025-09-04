@@ -4,6 +4,28 @@
 
 ![Input Vol 1 No 1](input_vol1_no1.png)
 
+#### Contents
+
++ Basic Programming 1
+  + Think of a number</br>
+    The RND function. IF...THEN. variables. INPUT
+
++ Machine Code 1
+  + Speed your games routines</br>
+  Some strinking graphics to introsuce machine code
+
++ Basic Programming 2
+  + The art of the FOR...NEST Loop</br>
+  Use the computer as a counting device and how it's used
+
++ Peripherals
+  + Untangling your save and loads</br>
+  How to load and save data 
+
+
+
+#### Program File Summary
+
 1. Think of a number - My first BASIC program to think of a number and print out whether it's higher or lower and the number of tries when guessed right.
 
 2. Times tables - Random multiplication in the 12 times table. Keep guessing until you get it right. 
