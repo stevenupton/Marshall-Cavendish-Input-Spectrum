@@ -33,4 +33,4 @@ The following programs are based on programs from Volume 1 Input editions
 [No 3](vol1/No03/readme.md) Machine Code 3, Maze game, graphics, drawing and variables<br>
 [No 4](vol1/No04/readme.md) Scoring and timing, read and write data, counting, displays 
 and letter writing<br>
-[No 5](vol1/No05/readme.md) Demostrating ways to give different instructions to programs, expenses program, new game.. aliens that shoot back, How to use Arrays to store data and handling hexidecimal arithmetic.<br>
+[No 5](vol1/No05/readme.md) Demonstrating ways to give different instructions to programs, expenses program, new game.. aliens that shoot back, How to use Arrays to store data and handling hexidecimal arithmetic.<br>
