@@ -36,3 +36,5 @@
 4. Simple program to guess the password. If it's correct, then print O.K
 
 5. Expenses program to enter all your expenses and subtract them from your income. Load  demo july.tap data.
+
+6. Demonstrates a basic alien game where the alien fires a missile and you have to defend your base using the shields.
