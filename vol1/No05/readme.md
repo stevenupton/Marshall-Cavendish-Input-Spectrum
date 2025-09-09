@@ -38,3 +38,5 @@
 5. Expenses program to enter all your expenses and subtract them from your income. Load  demo july.tap data.
 
 6. Demonstrates a basic alien game where the alien fires a missile and you have to defend your base using the shields.
+
+7. Demonstrate how to add to and use Arrays of 14 values output randomly.
