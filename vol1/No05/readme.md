@@ -40,3 +40,5 @@
 6. Demonstrates a basic alien game where the alien fires a missile and you have to defend your base using the shields.
 
 7. Demonstrate how to add to and use Arrays of 14 values output randomly.
+
+8. Shows a counter in binary, decimal and hexidecimal. Use "space" to increase the number by one and "b" to subtract the number by 1
